@@ -26,8 +26,19 @@ def login():
     passElement.send_keys(password)
     passElement.submit()
 
+def addNewProduct(productToAdd):
+    zoekTerm = browser.find_element_by_id('keyword')
+    zoekTerm.send_keys(productToAdd)
+    zoekTerm.submit()
+    time.sleep(1)
+    print(browser.find_elements_by_xpath('/html/body/div[2]/div[4]/div[1]/div[2]/div[1]/a[2]'))
+    addButton = browser.find_elements_by_xpath('/html/body/div[2]/div[4]/div[1]/div[2]/div[1]/a[2]')[0]
+    addButton.click()
+
 #running of program
 # you need to install geckodriver for this
 browser = webdriver.Firefox()
 browser.get('https://www.vlaamsbrabant.be/promarUD/login.do')
 login()
+time.sleep(3)
+addNewProduct("XLR kabelset 10stuks van 10m in koffer")

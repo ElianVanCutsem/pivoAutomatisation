@@ -11,8 +11,25 @@ from selenium.webdriver.common.keys import Keys
 
 #variables
 soiree = [
-"XLR kabelset 10stuks van 10m in koffer",
-"standaard microstatief"
+"Kleine PA-set met Midas",
+"Lichtbrug van truss op 2 statieven, max 10m x 4m hoog",
+"DJ-set Pioneer met CDJ2000",
+"05.1.Draadloze handmicrofoon",
+"PC ADB C101 1000W",
+"Wind-up Manfrotto 087",
+"21..Spigot",
+"13.ledspot",
+"LED-sunstrips DMX",
+"Blinder",
+"Handdimmer 1 kanaal",
+"Hazer",
+"Fuif belichting op statief met LED-spots",
+"SDI Kabelset met HDMI-omvormers",
+"LCD-staander",
+"Podiumelementen met losse pootjes",
+"podiumpootjes 60cm",
+"Db-meter",
+"Set van 4 walkietalkies"
 ]
 
 #functions

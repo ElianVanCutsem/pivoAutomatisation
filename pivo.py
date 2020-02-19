@@ -14,7 +14,7 @@ soiree = [
 "Kleine PA-set met Midas",
 "Lichtbrug van truss op 2 statieven, max 10m x 4m hoog",
 "DJ-set Pioneer met CDJ2000",
-"05.1.Draadloze handmicrofoon",
+"05.1.DDraadloze handmicrofoon",
 "PC ADB C101 1000W",
 "Wind-up Manfrotto 087",
 "21..Spigot",
@@ -57,7 +57,7 @@ def addNewProduct(productToAdd):
     zoekTerm = browser.find_element_by_id('keyword')
     zoekTerm.send_keys(productToAdd)
     zoekTerm.submit()
-    time.sleep(1)
+    time.sleep(2)
     addButton = browser.find_elements_by_xpath('/html/body/div[2]/div[4]/div[1]/div[2]/div[1]/a[2]')[0]
     addButton.click()
     zoekTerm = browser.find_element_by_id('keyword')

@@ -14,7 +14,7 @@ soiree = [
 "Kleine PA-set met Midas",
 "Lichtbrug van truss op 2 statieven, max 10m x 4m hoog",
 "DJ-set Pioneer met CDJ2000",
-"05.1.DDraadloze handmicrofoon",
+"05.1.Draadloze handmicrofoon",
 "PC ADB C101 1000W",
 "Wind-up Manfrotto 087",
 "21..Spigot",

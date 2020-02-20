@@ -418,3 +418,34 @@ JavaScript warning: https://www.vlaamsbrabant.be/promarUD/script/jquery-1.3.2.js
 1582121675705	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.vlaamsbrabant.be/promarUD/script/jquery-1.3.2.js, line 2425: unreachable code after return statement
 1582121765920	Marionette	INFO	Stopped listening on port 45765
+1582197561024	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582197561187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582197561187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582197561187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582197561187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:2528): GLib-GIO-WARNING **: 12:19:21.287: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1582197562501	Marionette	INFO	Listening on port 43475
+1582197562525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582197577547	Marionette	INFO	Stopped listening on port 43475
+1582197578359	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582197578518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582197578518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582197578518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582197578518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:2780): GLib-GIO-WARNING **: 12:19:38.604: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1582197579739	Marionette	INFO	Listening on port 36805
+1582197579751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582197670879	Marionette	INFO	Stopped listening on port 36805
+1582197673235	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582197673393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582197673393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582197673393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582197673393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:3234): GLib-GIO-WARNING **: 12:21:13.479: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1582197674648	Marionette	INFO	Listening on port 33833
+1582197674711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.vlaamsbrabant.be/promarUD/script/jquery-1.3.2.js, line 2425: unreachable code after return statement
+1582197765497	Marionette	INFO	Stopped listening on port 33833
